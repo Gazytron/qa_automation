@@ -1,4 +1,3 @@
-# Two browsers test for Google and Wikipedia with Waiting functional
 from selenium import webdriver
 import requests
 from selenium.common.exceptions import TimeoutException
